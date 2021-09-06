@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ManiTejaE
 -    I am currently working as a Software Engineer
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Angular, Python, Machine Learning
+- 🌱 My skills include Angular, React, Python, Django.
+-    Things in my pipeline Machine Learning
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 How to reach me: Mail me at maniteja.prof@gmail.com
 
