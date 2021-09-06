@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Angular, Python, Machine Learning
 - 💞️ I’m looking to collaborate on Web applications
-- 📫 How to reach me: Mail me at maniteja4m@gmail.com
+- 📫 How to reach me: Mail me at maniteja.prof@gmail.com
 
 <!---
 ManiTejaE/ManiTejaE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
