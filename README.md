@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ManiTejaE
--    I am currently working as a Software Engineer
+- 💻 I am currently working as a Software Engineer
 - 👀 I’m interested in Coding
 - 🌱 My skills include JavaScript, React, Nodejs, Python, Django, SQL/NoSQL Databases.
--    Things in my pipeline are DataScience, Machine Learning
+- 📋 Things in my pipeline are to build a portfolio website for myself and to keep doing projects that help me become more proficient in Web application development.
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 How to reach me: Mail me at maniteja.prof@gmail.com
 
